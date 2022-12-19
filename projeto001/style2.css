@@ -1,0 +1,38 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.content-pok > img {
+    display: block;
+    margin: auto;
+}
+
+.content-pok > h1 {
+    text-align: center;
+    background-color: rgb(255, 22, 22);
+    padding: 1rem;
+}
+
+.content-pok > ul {
+    text-align: center;
+    margin: 30px;
+    list-style: none;
+}
+
+.content-pok > ul > h1 {
+    margin: 20px;
+    background-color: royalblue;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.content-pok > ul > li {
+    padding: 1rem;
+}
